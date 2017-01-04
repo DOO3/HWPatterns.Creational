@@ -5,6 +5,10 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HWPatternsCreational.AbstractFactory", "HWPatternsCreational.AbstractFactory\HWPatternsCreational.AbstractFactory.csproj", "{D7D654C5-F8D4-4C4E-B9E6-3EB4FE0B8415}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HWPatternsCreational.Builder", "HWPatternsCreational.Builder\HWPatternsCreational.Builder.csproj", "{C2410C2B-5F19-4383-90A2-7419C96CD9D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HWPatternsCreational.FactoryMethod", "HWPatternsCreational.FactoryMethod\HWPatternsCreational.FactoryMethod.csproj", "{F998B4F1-AA0A-4C88-9453-7B272C2DE87F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{D7D654C5-F8D4-4C4E-B9E6-3EB4FE0B8415}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D7D654C5-F8D4-4C4E-B9E6-3EB4FE0B8415}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D7D654C5-F8D4-4C4E-B9E6-3EB4FE0B8415}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2410C2B-5F19-4383-90A2-7419C96CD9D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2410C2B-5F19-4383-90A2-7419C96CD9D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2410C2B-5F19-4383-90A2-7419C96CD9D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2410C2B-5F19-4383-90A2-7419C96CD9D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F998B4F1-AA0A-4C88-9453-7B272C2DE87F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F998B4F1-AA0A-4C88-9453-7B272C2DE87F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F998B4F1-AA0A-4C88-9453-7B272C2DE87F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F998B4F1-AA0A-4C88-9453-7B272C2DE87F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
